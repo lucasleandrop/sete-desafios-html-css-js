@@ -1,0 +1,26 @@
+body {
+  background-color: wheat;
+}
+.desafios {
+  font-size: 30px;
+  display: flex;
+  flex-direction: column;
+  gap: 50px;
+  padding: 10px;
+}
+button {
+  background-color: black;
+  color: white;
+  font-size: 25px;
+  width: 200px;
+  cursor: pointer;
+}
+a {
+  width: 200px;
+}
+.home {
+  font-size: 30px;
+  color: red;
+  text-align: center;
+  font-weight: bold;
+}
